@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e0992f0dd69d5d9",
+        "id": "937b774fb3ff4061",
         "type": "tabs",
         "children": [
           {
-            "id": "34c6f2781a0e8e77",
+            "id": "f636d79415f8ec59",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md"
+                "file": "MATH-3940/stuff.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md",
+                "file": "MATH-3940/stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md",
+                "file": "MATH-3940/stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md"
+                "file": "MATH-3940/stuff.md"
               }
             }
           }
@@ -145,13 +145,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06195dc73d3691ef",
+  "active": "f636d79415f8ec59",
   "lastOpenFiles": [
+    "MATH-3940/written_stuff.svg",
+    "MATH-3940/stuff.md",
+    "MATH-3940/final.md",
     "README.md",
     "ObsidianNotes/README.md",
     "ObsidianNotes",
-    "MATH-3940/final.md",
-    "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md",
     "COMP-3540/practice.excalidraw.md",
     "COMP-4400/Drawing 2023-12-12 21.37.30.excalidraw.md",
     "COMP-4400/Lambda Calculus.md",
