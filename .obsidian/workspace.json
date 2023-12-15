@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "12cf8577aba41bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0992f0dd69d5d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c6f2781a0e8e77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90482695d589ce0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c39bf1e1f8536e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06195dc73d3691ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7df02f00e1182b84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5faa470825ab418e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "390940d5687224ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "211edcbf634cc7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa032cafb4e9a4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e93434d11740f509",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44fbd5c759754d68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8590f10ce416432a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "06195dc73d3691ef",
+  "lastOpenFiles": [
+    "ObsidianNotes/README.md",
+    "ObsidianNotes",
+    "MATH-3940/final.md",
+    "MATH-3940/Drawing 2023-12-09 02.39.41.excalidraw.md",
+    "COMP-3540/practice.excalidraw.md",
+    "COMP-4400/Drawing 2023-12-12 21.37.30.excalidraw.md",
+    "COMP-4400/Lambda Calculus.md",
+    "COMP-4730/Drawing 2023-12-08 20.44.52.excalidraw.md",
+    "Untitled",
+    "COMP-4400",
+    "Untitled.md",
+    "COMP-4960/Pix2Pix GAN.md",
+    "COMP-4730/Linear regression.md",
+    "COMP-3540/Pumping Lemma.md",
+    "Pasted image 20231128133424.png",
+    "COMP-3540/Final Review.md",
+    "Pasted image 20231207141414.png",
+    "Pasted image 20231207133839.png",
+    "Pasted image 20231207132114.png",
+    "Pasted image 20231207132112.png",
+    "MATH-3940",
+    "Pasted Image 20231207005344_489.png",
+    "Pasted Image 20231207004236_710.png",
+    "Colloqium stuff.md",
+    "Pasted image 20231130015350.png",
+    "Pasted image 20231128133434.png.md",
+    "Pasted image 20231128133434.png",
+    "COMP-4730",
+    "COMP-4960",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2023-11-22 02.56.09.excalidraw.md",
+    "Excalidraw",
+    "2023-11-22.md",
+    "Excalidraw/Drawing 2023-11-22 02.52.31.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-22 02.42.47.excalidraw.md",
+    "Excalidraw/practice.excalidraw",
+    "Practice.md",
+    "COMP-3540"
+  ]
+}
